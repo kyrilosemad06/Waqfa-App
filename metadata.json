@@ -1,0 +1,6 @@
+{
+  "name": "WAQFA",
+  "description": "Digital wellbeing companion for Reels, Shorts, TikTok, and Facebook with daily quotas, a floating counter, and focus mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
